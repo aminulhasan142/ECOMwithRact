@@ -1,10 +1,10 @@
 import "./App.css";
-import Navbar from "./pages/Navbar/Navbar";
+import Login from "./pages/Logins/Login";
 
 export default function App() {
   return (
     <h1>
-      <Navbar />
+      <Login />
     </h1>
   );
 }
