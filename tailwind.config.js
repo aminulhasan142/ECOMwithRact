@@ -25,6 +25,7 @@ export default {
       "color-base-white": "#14532D",
       "color-base-black": "#000000",
       "search-bar-black": "#000F06",
+      "color-base-body": "#CAE9D7",
       "teal-500": "#20C997",
     },
     fontFamily: {

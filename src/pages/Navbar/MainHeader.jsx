@@ -15,7 +15,7 @@ const MainHeader = () => {
     // Navbar
     <div className="flex py-4 px-6 justify-center items-center gap-[1.12494rem] bg-color-green-950 backdrop-blur">
       {/* Navbar container  */}
-      <div className="flex max-w-[90rem] items-center flex-100">
+      <div className="flex max-w-[90rem] items-center flex-100 ">
         {/* items container  */}
         <div className="w-full flex justify-between md:justify-center md:items-center md:gap-[1.125rem] flex-100">
           {/* menu item button for mobile and tab */}
@@ -80,7 +80,7 @@ const MainHeader = () => {
 
           {/* startinggg---- loggin profile and favourite items */}
           {/* login profile */}
-          <div className="hidden md:hidden lg:flex lg:py-[0.3125rem] lg:pr-[0.75rem] lg:pl-[0.3125rem] lg:items-center lg:gap-2 lg:border-color-green-800 lg:rounded-[22.5rem]">
+          <div className="hidden md:hidden lg:flex lg:py-[0.3125rem] lg:pr-[0.75rem] lg:pl-[0.3125rem] lg:items-center lg:gap-2 lg:border lg:border-color-green-800 lg:rounded-[22.5rem]">
             <button className="flex items-center justify-center">
               <img
                 src={accountCircleIcon}
